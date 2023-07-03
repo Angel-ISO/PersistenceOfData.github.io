@@ -1,0 +1,5 @@
+/home/angelgabriel/Documentos/PersistenceOfData.github.io/obj/Debug/net7.0/PersistenceOfData.github.io.csproj.AssemblyReference.cache
+/home/angelgabriel/Documentos/PersistenceOfData.github.io/obj/Debug/net7.0/PersistenceOfData.github.io.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelgabriel/Documentos/PersistenceOfData.github.io/obj/Debug/net7.0/PersistenceOfData.github.io.AssemblyInfoInputs.cache
+/home/angelgabriel/Documentos/PersistenceOfData.github.io/obj/Debug/net7.0/PersistenceOfData.github.io.AssemblyInfo.cs
+/home/angelgabriel/Documentos/PersistenceOfData.github.io/obj/Debug/net7.0/PersistenceOfData.github.io.csproj.CoreCompileInputs.cache
